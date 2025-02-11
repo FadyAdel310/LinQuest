@@ -162,7 +162,7 @@ git reset --staged <file1> <file2> <file3>
 
 
 d\.
-```bash 
+```bash
 git restore --staged <file1> <file2> <file3>  
 ```
 
@@ -173,33 +173,49 @@ git restore --staged <file1> <file2> <file3>
 
 *Question 8*:
 
+
 Hello **Eng. Berkov*** ,
-We are sorry for waking up you at midnight ,but we have a big problem 
+We are sorry for waking up you at midnight ,but we have a big problem
 the stuff of nightshift make a lot of changes in the settings of the nuclear controller and
- we don't know how to revert the the pervious settings, we know it easy for you to do that 
+ we don't know how to revert the the pervious settings, we know it easy for you to do that
 
 ---
 
 *Question 9*:
+
 
 Omar has a weak memory , he always forget why he made that and did that,
  the misrable problem he not live alone in the home, there's another humans lives with him
 Help him to comment his actions.
 
 ---
+
 *Question 10*:
 
+
 oh, Bad day I came to work without the keys of my office,
- I can't back to my home to get it, i Have a lot of work in drawing the comic of "Halk Smash", 
- My work mate Edison suggest to share  his office with me to finish my work, I did that. 
+ I can't back to my home to get it, i Have a lot of work in drawing the comic of "Halk Smash",
+ My work mate Edison suggest to share  his office with me to finish my work, I did that.
 But tommorrow when the office boy come to take the drawing how can he know my draws from Edison's draw, We need two git commands for different situations
 1) office boy will take only your job
 
-2) you will signture your job 
+2) you will signture your job
 
 ---
 
 *Question 11*:
+
+
 The indie band “Pixel Beats” (Luna, Rio, and Zara) are recording their debut album. Each member edits the same music file (track_master.mp3) on a shared laptop. Chaos erupts when Luna’s vocals overwrite Rio’s guitar solo, and Zara’s drum track disappears. They need to recover their work and collaborate without clashes!
 
 ---
+
+*Question 12*:
+
+
+During the armed conflict between *Isnotreal* and *Hezbyahweh*, The Intelligence services of *Isnotreal* known as *Mossap* has conducted a successful offensive operation against *Hezbyahweh*, this operation was Supply chain attack that exploited all the communication devices with explosive material and then BOOOOM! This supversive operation has gained too much attention in the International media, so one of the journalists in *Oldyork Times* named **Tom Huddleston** decided to investigate in this operation and in order to have a scoop, he called one of his powerful contacts to reach him out with a *Mossap* agent, the agent accepted to say some useful information and to provide some names in the operation, such as the type of the explosive material, the offshore companies they used to trick *Hezbyahweh* officers that they are buying trusted and safe walkie talkies and paigers etc. from them, and some other information.
+but he told *Tom* that he can't give him this data using normal communication ways such as Whatsapp or SMS for security purposes, instead, he will give him an access to a github repository that contains all data that he can provide him about this operation.
+Tom don't know how to use git and github, and he need your help to get this scoop, can you help him?  
+this is the github link: https://github.com/TheXpingu1n/temp-repo-for-a-git-question.git
+
+***Note: Cloning the repo is also not allowed for unknown security purposes***

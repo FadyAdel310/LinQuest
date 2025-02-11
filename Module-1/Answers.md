@@ -23,7 +23,6 @@ git log ***[--filename]*** *optional*
 ```
 
 4)
-
 ``` bash
    git checkout/switch SocialCreditBranch
 
@@ -39,7 +38,6 @@ git log ***[--filename]*** *optional*
 
 
 5)
-
 ```bash
    git commit --amend --author="Your Name <your.email@example.com>"
 ```
@@ -50,7 +48,6 @@ git log ***[--filename]*** *optional*
 
 
 6)
-
 ```bash
 git diff HEAD
 ```
@@ -71,8 +68,10 @@ git revert
 ```bash
 git commit -m " Message"
 ```
+
+
 10)
-```bash 
+```bash
 git log --author="Omar"
 ```
 
@@ -82,15 +81,23 @@ git tag -a Omar_Final -m "Signed by Omar: Final version for print"
 
 
 11)
-
 ```bash
 git branch luna-vocals  
 git branch rio-guitar  
 git branch zara-drums  
 ```
 
-```bash 
+```bash
 
 git checkout main
 git merge --no-ff luna-vocals rio-guitar zara-drums  
 ```
+
+12)
+```bash
+git init
+git remote add origin https://github.com/TheXpingu1n/temp-repo-for-a-git-question.git
+git pull origin main
+```
+
+***Note: there are several solutions such as using fetch etc.***
